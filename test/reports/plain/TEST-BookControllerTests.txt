@@ -1,0 +1,52 @@
+Testsuite: BookControllerTests
+Tests run: 15, Failures: 0, Errors: 0, Time elapsed: 1.027 sec
+------------- Standard Output ---------------
+--Output from testIndex_withParams--
+--Output from testList--
+--Output from testList_withParams--
+--Output from testShow--
+--Output from testShow_bookNotFound--
+--Output from testDelete--
+--Output from testDelete_bookNotFound--
+--Output from testEdit--
+--Output from testEdit_bookNotFound--
+--Output from testUpdate--
+--Output from testUpdate_hasErrors--
+--Output from testUpdate_bookNotFound--
+--Output from testCreate--
+--Output from testSave--
+--Output from testSave_withErrors--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testIndex_withParams--
+--Output from testList--
+--Output from testList_withParams--
+--Output from testShow--
+--Output from testShow_bookNotFound--
+--Output from testDelete--
+--Output from testDelete_bookNotFound--
+--Output from testEdit--
+--Output from testEdit_bookNotFound--
+--Output from testUpdate--
+--Output from testUpdate_hasErrors--
+--Output from testUpdate_bookNotFound--
+--Output from testCreate--
+--Output from testSave--
+--Output from testSave_withErrors--
+------------- ---------------- ---------------
+
+Testcase: testIndex_withParams took 0.293 sec
+Testcase: testList took 0.085 sec
+Testcase: testList_withParams took 0.021 sec
+Testcase: testShow took 0.279 sec
+Testcase: testShow_bookNotFound took 0.014 sec
+Testcase: testDelete took 0.016 sec
+Testcase: testDelete_bookNotFound took 0.01 sec
+Testcase: testEdit took 0.012 sec
+Testcase: testEdit_bookNotFound took 0.022 sec
+Testcase: testUpdate took 0.097 sec
+Testcase: testUpdate_hasErrors took 0.019 sec
+Testcase: testUpdate_bookNotFound took 0.009 sec
+Testcase: testCreate took 0.02 sec
+Testcase: testSave took 0.014 sec
+Testcase: testSave_withErrors took 0.017 sec

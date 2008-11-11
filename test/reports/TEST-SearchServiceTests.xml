@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="hugobook.local" name="SearchServiceTests" tests="1" time="0.027" timestamp="2008-11-11T03:09:29">
+  <properties />
+  <testcase classname="SearchServiceTests" name="testFindBook" time="0.024" />
+  <system-out><![CDATA[--Output from testFindBook--
+DEBUG (SearchService): Searching for book with title: Tripwire
+]]></system-out>
+  <system-err><![CDATA[--Output from testFindBook--
+]]></system-err>
+</testsuite>

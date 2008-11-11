@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="hugobook.local" name="SearchControllerTests" tests="1" time="0.0050" timestamp="2008-11-11T03:09:29">
-  <properties />
-  <testcase classname="SearchControllerTests" name="testSomething" time="0.0" />
-  <system-out><![CDATA[--Output from testSomething--
-]]></system-out>
-  <system-err><![CDATA[--Output from testSomething--
-]]></system-err>
-</testsuite>

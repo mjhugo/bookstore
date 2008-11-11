@@ -1,2 +1,0 @@
---Output from testFindBook--
-DEBUG (SearchService): Searching for book with title: Tripwire
